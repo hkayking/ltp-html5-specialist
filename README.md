@@ -1,1 +1,1 @@
-# ltp-html5-specialist
+# Holly's HTML5 Specialist Repository
